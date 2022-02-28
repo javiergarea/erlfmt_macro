@@ -1,0 +1,8 @@
+{application, erlfmt_macro, [
+    {description, "An OTP application"},
+    {vsn, "0.1.0"},
+    {applications, [
+        kernel,
+        stdlib
+    ]}
+]}.
